@@ -32,7 +32,7 @@ A 2D space shooter game developed in Unity, featuring enemy wave system, boss fi
 ---
 
 # Preview
-![Gameplay](Docs/Images/SpaceSurvivor.PNG)
+![Gameplay](Assets/Docs/Images/SpaceSurvivor.PNG)
 
 ---
 
